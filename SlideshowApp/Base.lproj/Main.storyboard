@@ -29,7 +29,7 @@
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="aXa-xC-eVk">
-                                <rect key="frame" x="21.666666666666657" y="121" width="350" height="350"/>
+                                <rect key="frame" x="21.666666666666657" y="119" width="350" height="350"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="350" id="1GE-XE-5II"/>
@@ -92,7 +92,7 @@
                             <constraint firstItem="hNh-22-zNF" firstAttribute="top" secondItem="ik5-ts-XBa" secondAttribute="bottom" constant="68" id="jMF-Gi-Z21"/>
                             <constraint firstItem="hNh-22-zNF" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="liD-Sq-zCZ"/>
                             <constraint firstItem="ik5-ts-XBa" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="62" id="lzX-99-VFs"/>
-                            <constraint firstItem="aXa-xC-eVk" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="62" id="pie-n3-7O5"/>
+                            <constraint firstItem="aXa-xC-eVk" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="60" id="pie-n3-7O5"/>
                             <constraint firstItem="3fD-1j-pwM" firstAttribute="centerY" secondItem="zB2-Kz-cFg" secondAttribute="centerY" id="qdE-HD-FZZ"/>
                         </constraints>
                     </view>
